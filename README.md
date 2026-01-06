@@ -1,31 +1,50 @@
-A palindrome number is a number that remains the same when reversed.
+Palindrome Number Checker Using C
+Project Description
 
-Example: 121, 343, 989 are palindrome numbers.
+This mini project is developed using the C programming language to determine whether a given integer is a palindrome number.
 
-The project checks whether a given number is palindrome or not.
+A palindrome number is a number that remains the same when its digits are reversed. The program processes the number using logical operations and compares the reversed value with the original number to produce the result.
 
-User inputs a number through the keyboard.
+Objective
+
+The objectives of this project are:
+
+To understand the fundamentals of C programming
+
+To implement loops and conditional statements
+
+To perform number manipulation using arithmetic operators
+
+To improve logical reasoning and problem-solving skills
+
+Technologies Used
+
+Programming Language: C
+
+Compiler: GCC / Turbo C / Any standard C compiler
+
+Program Logic
+
+The program accepts an integer value.
 
 The original number is stored for comparison.
 
-The number is reversed using a loop.
-
-Each digit is extracted using the modulus (%) operator.
-
-Reversed number is created using arithmetic operations.
+The digits of the number are reversed using an iterative approach.
 
 The reversed number is compared with the original number.
 
-If both numbers are equal, it is a palindrome.
+The program determines whether the number is a palindrome.
 
-If not equal, it is not a palindrome.
+Student Details
 
-The program displays the result clearly.
+Name: Manish Kumar
 
-The project uses loops, conditional statements, and functions.
+Roll Number: 10773
 
-It improves logical thinking and problem-solving skills.
+Project Type: College Mini Project
+<img width="591" height="321" alt="Screenshot 2026-01-06 125849" src="https://github.com/user-attachments/assets/0bc63d89-5725-4045-921b-9b9aab079de6" />
 
-Simple and beginner-friendly mini project.
 
-Useful for understanding number manipulation concepts.
+Conclusion
+
+This project demonstrates an efficient method for checking palindrome numbers using the C programming language. It reinforces core programming concepts such as loops, conditional statements, and arithmetic operations, making it suitable for beginners.
